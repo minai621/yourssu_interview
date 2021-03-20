@@ -1,0 +1,11 @@
+{
+  "name": "yourssu_2021_1_recruit",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "lite-server ."
+  }
+}

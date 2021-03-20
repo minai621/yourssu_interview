@@ -1,0 +1,15 @@
+body {
+  font-family: Youth, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@font-face {
+  font-family: Youth;
+  src: local, url(Youth.ttf) format("truetype");
+}
+.container {
+  margin-top: 1em;
+}
+
+#delete-btn:hover{
+  color: red;
+}
